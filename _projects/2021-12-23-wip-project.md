@@ -7,6 +7,6 @@ featured_image: '/images/my_world/lands_end_rocks_sunset.jpg'
 
 ![](/images/my_world/lands_end_sunset.jpg)
 
-## Work in Progress
+### Work in Progress
 
 This page is a work in progress, stay tuned for updates on what I'll be cooking up here.
