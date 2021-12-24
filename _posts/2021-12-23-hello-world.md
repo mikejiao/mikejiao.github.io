@@ -5,7 +5,9 @@ featured_image: '/images/my_world/teton_mountain_sunset_2.jpg'
 excerpt: Here are some of my favorite memories from 2021.
 ---
 
-![late summer in the tetons](/images/my_world/teton_river_sunset.jpg)
+|![](/images/my_world/teton_river_sunset.jpg)|
+|:--:|
+| *late summer in the tetons* |
 
 ## 👋 2021, 👋 2022
 
@@ -18,8 +20,8 @@ Here are some of my favorite memories from the last year
 
 
 
-<div class="gallery" data-columns="3">
-	<img src="/images/my_world/camper_van_iceland.jpg">
+<div class=" " data-columns="3">
+	<a title="Iceland Camper Van Adventures"><img src="/images/my_world/camper_van_iceland.jpg"></a>
 	<img src="/images/my_world/fuck_the_system.jpg">
 	<img src="/images/my_world/hawaii_sunset.jpg">
 	<img src="/images/my_world/northern_lights_sketch.jpg">
