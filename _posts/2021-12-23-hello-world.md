@@ -19,7 +19,7 @@ Here are some of my favorite memories from the last year
 
 
 <div class=" " data-columns="3">
-	<img src="/images/my_world/camper_van_iceland.jpg" alt="" title="Iceland Camper Van Adventures">
+	<img src="/images/my_world/camper_van_iceland.jpg">
 	<img src="/images/my_world/fuck_the_system.jpg">
 	<img src="/images/my_world/hawaii_sunset.jpg">
 	<img src="/images/my_world/northern_lights_sketch.jpg">
