@@ -2,19 +2,19 @@
 title: 'good bye 2021'
 date: 2021-12-23 00:00:00
 featured_image: '/images/my_world/teton_mountain_sunset_2.jpg'
-excerpt: Here are some of my fav memories from 2021.
+excerpt: Here are some of my favorite memories from 2021.
 ---
 
-![](/images/my_world/teton_river_sunset.jpg)
+![late summer in the tetons](/images/my_world/teton_river_sunset.jpg)
 
 ## 👋 2021, 👋 2022
 
 Good bye 2021, hello 2022 (and a website refresh).
 
-2021 was a rough year, and that makes me all the more grateful for the people that graced my life. Thank you all!
+2021 was a rough year, and that makes me all the more grateful for the people, places and experiences that graced my life. Thank you all!
 
 ---
-Here are some of my favorite memories from the last year.
+Here are some of my favorite memories from the last year
 
 
 
