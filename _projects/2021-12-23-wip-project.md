@@ -2,10 +2,10 @@
 title: 'Work in Progress'
 subtitle: 'stay tuned for more'
 date: 2021-12-23 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/my_world/lands_end_rocks_sunset.jpg'
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/my_world/lands_end_sunset.jpg)
 
 ## Work in Progress
 

@@ -2,10 +2,11 @@
 title: About
 subtitle: Toronto  •  SF  •  NYC
 description: Interested in high growth products, meaningful social change, and beautiful, immersive experiences 
-featured_image: /images/me/portrait_Mike_Jiao.jpg
+featured_image: /images/me/oakland_afx.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+
+Interested in high growth products, meaningful social change, and beautiful, immersive experiences
 
 ### Work
 Product Manager at [Reddit](https://www.reddit.com/)
