@@ -1,5 +1,5 @@
 ---
-title: About
+title: About - Mike Jiao
 subtitle: Toronto  •  SF  •  NYC
 description: Interested in high growth products, meaningful social change, and beautiful, immersive experiences 
 featured_image: /images/me/oakland_afx.jpg
@@ -30,4 +30,4 @@ My focus is on driving user growth via helping people understand and stay connec
 * Distance running
 * Reading sci fi / fantasy
 * Dancing hip hop
-* Eating my way through new countries and cities
+* Eating my way through new countries, cities, and languages
