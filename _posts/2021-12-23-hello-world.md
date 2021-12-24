@@ -26,7 +26,7 @@ Here are some of my favorite memories from the last year.
 	<img src="/images/my_world/northern_lights_sketch.jpg">
 	<img src="/images/my_world/yee_backyard.jpg">
 	<img src="/images/my_world/breaded_chicken.jpg">
-	<img src="/images/my_world/iceland_waterfalls.jpg">
+	<img src="/images/my_world/waitress.jpg">
 	<img src="/images/my_world/kusama_flower.jpg">
 	<img src="/images/my_world/vancouver_river.jpg">
 	<img src="/images/my_world/vancover_lake_night.jpg">
@@ -34,12 +34,15 @@ Here are some of my favorite memories from the last year.
 	<img src="/images/my_world/axe_throwing.jpg">
 	<img src="/images/my_world/buvette_latte.jpg">
 	<img src="/images/my_world/outside_lands.jpg">
-	<img src="/images/my_world/waitress.jpg">
-	<img src="/images/my_world/bang_bang_noodles.jpg">
+	<img src="/images/my_world/iceland_waterfalls.jpg">
 	<img src="/images/my_world/toronto_music_garden.jpg">
+	<img src="/images/my_world/bang_bang_noodles.jpg">
+
+
+
 	<img src="/images/my_world/kaws.jpg">
 	<img src="/images/my_world/hawaii_sunrise.jpg">
-	
+
 
 
 </div>
