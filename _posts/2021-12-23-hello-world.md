@@ -9,8 +9,7 @@ excerpt: Here are some of my fav memories from 2021.
 
 ## 👋 2021, 👋 2022
 
-Good bye 2021, hello 2022 (and a website refresh). 
----
+Good bye 2021, hello 2022 (and a website refresh).
 
 2021 was a rough year, and that makes me all the more grateful for the people that graced my life. Thank you all!
 
@@ -37,9 +36,6 @@ Here are some of my favorite memories from the last year.
 	<img src="/images/my_world/iceland_waterfalls.jpg">
 	<img src="/images/my_world/toronto_music_garden.jpg">
 	<img src="/images/my_world/bang_bang_noodles.jpg">
-
-
-
 	<img src="/images/my_world/kaws.jpg">
 	<img src="/images/my_world/hawaii_sunrise.jpg">
 
