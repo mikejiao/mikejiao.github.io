@@ -1,11 +1,11 @@
 ---
 title: 'good bye 2021'
 date: 2021-12-23 00:00:00
-featured_image: '/images/my_world/teton_mountain_sunset_2.jpg'
+featured_image: '/images/my_world/teton_mountain_sunset_2.webp'
 excerpt: Here are some of my favorite memories from 2021.
 ---
 
-![](/images/my_world/teton_river_sunset.jpg)
+![](/images/my_world/teton_river_sunset.webp)
 
 ## 👋 2021, 👋 2022
 
@@ -19,25 +19,25 @@ Here are some of my favorite memories from the last year
 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/my_world/camper_van_iceland.jpg">
-	<img src="/images/my_world/fuck_the_system.jpg">
-	<img src="/images/my_world/hawaii_sunset.jpg">
-	<img src="/images/my_world/northern_lights_sketch.jpg">
-	<img src="/images/my_world/yee_backyard.jpg">
-	<img src="/images/my_world/breaded_chicken.jpg">
-	<img src="/images/my_world/waitress.jpg">
-	<img src="/images/my_world/kusama_flower.jpg">
-	<img src="/images/my_world/vancouver_river.jpg">
-	<img src="/images/my_world/vancover_lake_night.jpg">
-	<img src="/images/me/gov_ball.jpg">
-	<img src="/images/my_world/axe_throwing.jpg">
-	<img src="/images/my_world/buvette_latte.jpg">
-	<img src="/images/my_world/outside_lands.jpg">
-	<img src="/images/my_world/iceland_waterfalls.jpg">
-	<img src="/images/my_world/toronto_music_garden.jpg">
-	<img src="/images/my_world/bang_bang_noodles.jpg">
-	<img src="/images/my_world/kaws.jpg">
-	<img src="/images/my_world/hawaii_sunrise.jpg">
+	<img src="/images/my_world/camper_van_iceland.webp">
+	<img src="/images/my_world/fuck_the_system.webp">
+	<img src="/images/my_world/hawaii_sunset.webp">
+	<img src="/images/my_world/northern_lights_sketch.webp">
+	<img src="/images/my_world/yee_backyard.webp">
+	<img src="/images/my_world/breaded_chicken.webp">
+	<img src="/images/my_world/waitress.webp">
+	<img src="/images/my_world/kusama_flower.webp">
+	<img src="/images/my_world/vancouver_river.webp">
+	<img src="/images/my_world/vancover_lake_night.webp">
+	<img src="/images/me/gov_ball.webp">
+	<img src="/images/my_world/axe_throwing.webp">
+	<img src="/images/my_world/buvette_latte.webp">
+	<img src="/images/my_world/outside_lands.webp">
+	<img src="/images/my_world/iceland_waterfalls.webp">
+	<img src="/images/my_world/toronto_music_garden.webp">
+	<img src="/images/my_world/bang_bang_noodles.webp">
+	<img src="/images/my_world/kaws.webp">
+	<img src="/images/my_world/hawaii_sunrise.webp">
 
 
 

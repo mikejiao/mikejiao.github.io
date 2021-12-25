@@ -2,7 +2,7 @@
 title: About - Mike Jiao
 subtitle: Toronto  •  SF  •  NYC
 description: Interested in high growth products, meaningful social change, and beautiful, immersive experiences 
-featured_image: /images/me/oakland_afx.jpg
+featured_image: /images/me/oakland_afx.webp
 ---
 
 
