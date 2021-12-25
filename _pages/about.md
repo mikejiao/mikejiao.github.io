@@ -23,8 +23,8 @@ My focus is on driving user growth via helping people understand and stay connec
 * Data science & engineering at [Royal Bank of Canada](https://www.rbcroyalbank.com/)
 
 ### Eduation
-* Computer Science at [University of Waterloo](https://uwaterloo.ca/) & [EPFL](https://www.epfl.ch/en/)
-* Business at [Wilfrid Laurier University](https://www.wlu.ca/)
+* Computer Science at [University of Waterloo](https://uwaterloo.ca/about/) & [EPFL](https://www.epfl.ch/about/)
+* Business at [Wilfrid Laurier University](https://www.wlu.ca/about/index.html)
 
 ### Interests
 * Distance running

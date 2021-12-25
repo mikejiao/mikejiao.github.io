@@ -2,7 +2,7 @@
 title: 'good bye 2021'
 date: 2021-12-23 00:00:00
 featured_image: '/images/my_world/teton_mountain_sunset_2_compressed.webp'
-excerpt: Here are some of my favorite memories from 2021.
+excerpt: Some of my favorite memories from 2021.
 ---
 
 ![](/images/my_world/teton_river_sunset.webp)
