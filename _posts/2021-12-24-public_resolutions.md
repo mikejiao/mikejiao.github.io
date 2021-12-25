@@ -5,8 +5,6 @@ featured_image: '/images/my_world/skating_narwhale.webp'
 excerpt: Here goes public accountability... 
 ---
 
-## public resolutions
-
 It's cliche to make resolutions as one year ends and another begins, as if this time is somehow special - different compared to every other week of the year in making goals stick. So sue me as I embrace the cliche. But I am going to try something different this time around. Here's a question: Will being public about my goals help keep me accountable to them? 
 
 Goal setting is nothing new to me. I set new life goals on the monthly. Take a look at sheets.google.com, and you'll find and career milestones for the next twenty years. You'll find a bucket list of adventures I aim to get to in the next year.
