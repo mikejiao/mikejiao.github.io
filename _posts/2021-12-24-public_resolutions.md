@@ -18,10 +18,10 @@ So let's play a new game this year: let's sign up publicly for what I want to do
 
 ---
 
-### Top 3 H1 2022 Resolutions: 
-1. get to 15% body fat, while increasing strength (50 push ups, 15 pull ups, 90s plank, 1.5x body weight squat, 55 mins 10K)
-2. increase w1 retention by 1% for new users
-3. choreograph 3 of my favorite songs and become comfortable free-styling with 25 foundational dance moves
+### Top 3 2022 Resolutions: 
+1. run a marathon
+2. solo travel Europe
+3. learn to choreograph and freestyle
 
 
 
